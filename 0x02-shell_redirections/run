@@ -1,5 +1,5 @@
 #!/bin/bash
 chmod a+x*
 git add .
-git commit-m "shell redirection"
+git commit -m "shell redirection"
 git push
